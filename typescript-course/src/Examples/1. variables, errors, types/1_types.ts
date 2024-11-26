@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // String
 const string: string = "Hello, world!";
 const stringInf = "Hello, world!";

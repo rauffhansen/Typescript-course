@@ -1,4 +1,4 @@
-import { User } from './interfaces'
+import { User } from './3_errors/interfaces'
 
 function getColorJS(color) {
   return color.toUpperCase();
